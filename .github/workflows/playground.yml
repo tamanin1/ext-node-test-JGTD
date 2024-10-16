@@ -6,7 +6,7 @@ jobs:
     linux_job:
 
         runs-on: ubuntu-latest
-        
+
         steps: 
             name: Executa echo
-            run: echo "Hello world!"
+            run: echo Hello world!
